@@ -18,5 +18,4 @@ This project is a **Task Manager** built using the MERN stack with **MySQL** as 
 
 ---
 
-## 🗂 Folder Structure
 
